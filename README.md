@@ -22,7 +22,7 @@ $ python main.py --select_type bcsr
 If you found this repository helpful, please cite our paper:
 ```
 @inproceedings{
-anonymous2023bilevel,
+hao2023bilevel,
 title={Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm},
 author={Jie Hao, Kaiyi Ji, Mingrui Liu},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
