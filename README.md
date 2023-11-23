@@ -1,6 +1,6 @@
 # Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm
 
-This is an implementation for paper of [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm"](https://openreview.net/pdf?id=2dtU9ZbgSN))
+This is an implementation for paper of [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://openreview.net/pdf?id=2dtU9ZbgSN))
 Jie Hao, Kaiyi Ji, Mingrui Liu, 37th Conference on Neural Information Processing Systems (NeurIPS 2023).
 
 ### Abstract
